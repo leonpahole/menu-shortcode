@@ -1,0 +1,13 @@
+{
+  "name": "leonpahole/menu-shortcode",
+  "authors": [
+    {
+      "name": "Leon Pahole",
+      "email": "leonnieen@gmail.com"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
